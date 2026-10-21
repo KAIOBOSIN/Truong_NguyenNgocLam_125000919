@@ -3,7 +3,6 @@
 ## Các tệp
 - `index.html`: nội dung và cấu trúc Semantic HTML5
 - `style.css`: giao diện, CSS Variables, Flexbox/Grid, responsive, hover/focus
-- `script.js`: menu di động, AOS, năm hiện tại và nút quay lại đầu trang
 - `PROMPT_LOG.md`: nhật ký Prompt Engineering
 - `assets/`: thư mục chứa hình ảnh/tài nguyên bổ sung
 
